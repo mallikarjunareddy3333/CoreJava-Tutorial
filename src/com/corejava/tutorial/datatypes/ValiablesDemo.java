@@ -1,4 +1,4 @@
-package demo;
+package com.corejava.tutorial.datatypes;
 
 public class ValiablesDemo {
 

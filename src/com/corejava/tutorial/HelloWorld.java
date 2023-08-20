@@ -1,4 +1,4 @@
-package demo;
+package com.corejava.tutorial;
 
 public class HelloWorld 
 {
